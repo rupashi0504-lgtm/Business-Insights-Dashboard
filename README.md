@@ -67,8 +67,7 @@ The goal of this dashboard is to help stakeholders **identify profitable regions
 ## 📋 Author
 **Rupashi Dutta**  
 *Business & Data Analytics Enthusiast*  
-📧 [YourEmail@example.com]  
-💼 [LinkedIn Profile]  
+📧 [rupashi0504@gmail.com]  
 
 ---
 
