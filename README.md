@@ -45,3 +45,31 @@ The goal of this dashboard is to help stakeholders **identify profitable regions
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Use
+1. Download or clone this repository.
+2. Open the `.pbit` file in **Power BI Desktop**.
+3. Load your dataset or sample data.
+4. Explore the interactive visuals and filters (Year, Region, Gender, etc.).
+
+---
+
+## 🧠 Insights Gained
+- Clear visibility into **profitability trends** over time.
+- Identification of **top-performing regions and categories**.
+- Understanding of **sales distribution across gender and age groups**.
+- Helps in making **data-driven decisions** for marketing and operations.
+
+---
+
+## 📋 Author
+**Rupashi Dutta**  
+*Business & Data Analytics Enthusiast*  
+📧 [YourEmail@example.com]  
+💼 [LinkedIn Profile]  
+
+---
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
